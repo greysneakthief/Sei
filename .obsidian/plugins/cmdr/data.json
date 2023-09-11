@@ -1,0 +1,78 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:01dec142-a863-4bc8-b73f-5de1c6d388f1",
+      "icon": "tent",
+      "name": "QuickAdd: Habit",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:cc36ec10-2eb7-4703-969c-9ace662c5a30",
+      "icon": "mountain-snow",
+      "name": "QuickAdd: Quest",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:658036e9-c289-4eb7-9f79-3ee8a2e29a29",
+      "icon": "check-circle",
+      "name": "QuickAdd: Task",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:b4171c17-03a0-46c8-99b1-f800099d08da",
+      "icon": "feather",
+      "name": "QuickAdd: Phase",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:69ec1250-bfbd-49ec-b822-b98da4db382e",
+      "icon": "lightbulb",
+      "name": "QuickAdd: Learning",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:f6050c2d-6519-439b-9670-fdd464419530",
+      "icon": "clover",
+      "name": "QuickAdd: Cast Rune",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:78a04918-02fa-41e9-8c68-c662acf29fea",
+      "icon": "file-plus-2",
+      "name": "QuickAdd: Scroll",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:ee30ca87-69ba-4ebc-b4e1-81af12fb55de",
+      "icon": "sunrise",
+      "name": "QuickAdd: Daily",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

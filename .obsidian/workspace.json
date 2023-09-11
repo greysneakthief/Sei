@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "a7c758b03949d102",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70a9d15a750afa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea9e5b181158a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/0.5 Quests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e09c544b7f266e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0add7f9ecf660bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Quest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c88b7ad75ba5bdc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Quest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a153434b63a9cd5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ec793363003cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146b68924e5a4b76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bab47b13707a3846",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4a7a33cd4307495",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad87028aa43d6f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "da46839de4522ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf6aa0efc6e2dcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Quest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "082c7796c7eb9905",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Quest.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11ba4ab8055c4568",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80b26b81d378472d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Quest.md"
+              }
+            }
+          },
+          {
+            "id": "41c9e6f99245818a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "92db4ed3cec3fb8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/Quest.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "146b68924e5a4b76",
+  "lastOpenFiles": [
+    "Story/1/Berengar.md",
+    "Story/1/2023-09-11.md",
+    "Templates/Quest.md",
+    "Templates/Daily.md",
+    "Templates/Scroll.md",
+    "Story/1",
+    "Story/1/Berengars Secret.md",
+    "Story/0.5 Quests.md",
+    "Scrolls",
+    "Story/0.4 Rituals.md",
+    "Story/1/bereng.md",
+    "Story/Chapter 1/Berengars Secret.md",
+    "Story/Chapter 1",
+    "Story/Chapter 1/Berengar's Secret.md",
+    "Story/Chapter 1.md",
+    "Chapter 1.md",
+    "Chapter 2.md",
+    "Story/0.3 Character.md",
+    "Test/Quest Details.md",
+    "Test",
+    "Story/0.2 Vision.md",
+    "Story/0.1 Introduction.md",
+    "Story",
+    "Templates",
+    "Test.md",
+    "2 Vision Button.md",
+    "Templates/Values.md",
+    "Templates/Choosing your values.md",
+    "Templates/Similarities.md",
+    "Templates/Choosing your vision.md",
+    "Templates",
+    "Onboarding"
+  ]
+}
